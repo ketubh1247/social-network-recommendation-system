@@ -18,7 +18,7 @@ This project simulates a social networking platform and implements:
 - Mutual friend scoring
 - Interest-based recommendations
 
-## How To RunRun in order
+## How To Run in order
 1. Clone repo
 2. Open notebooks
 3. Run in order
